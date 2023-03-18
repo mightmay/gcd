@@ -5,6 +5,5 @@ setup(
    version='1.0',
    description='GCD',
    author='GCD',
-   packages=['gcd'], 
    install_requires=['pytest'], 
 )
