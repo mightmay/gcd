@@ -1,5 +1,5 @@
 import pytest
-import gcd
+from gcd import gcd
 
 def test_gcd_positive_values():
  """Should return positive gcd."""
